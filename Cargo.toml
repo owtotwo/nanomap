@@ -1,6 +1,13 @@
 [package]
 name = "nanomap"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2024"
+description = "A fast small-scale hashmap."
+readme = "README.md"
+repository = "https://github.com/owtotwo/nanomap"
+homepage = "https://github.com/owtotwo/nanomap"
+documentation = "https://docs.rs/nanomap"
+keywords = ["map", "set", "hashmap", "hashset", "data structure"]
+license = "MIT OR Apache-2.0"
 
 [dependencies]
